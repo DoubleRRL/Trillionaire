@@ -14,7 +14,8 @@ Download Xcode
 
 https://developer.apple.com/download/
 
-** This project uses Xcode 9.2 and the “arc4integer(upperBound)” object as a random number generator. To run this project properly as it has been designed and created, please download Xcode version 9.2
+** To run this project properly as it has been designed and created, please download Xcode version 9.2
+
 Why?: We need Xcode because it is the easiest way to get you an iOS Simulator on your computer screen. It’s important to have a simulator locally because instant feedback when developing is exciting, motivating and critical.
 
 —————————————
